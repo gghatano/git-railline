@@ -1,5 +1,17 @@
 ```mermaid
- gitGraph
+%%{init: { 
+ 'themeVariables': {
+        'git1': '#ffd600', 
+        'git2': '#ffd600', 
+        'git3': '#00b2e5',
+        'git4': '#ffd400',
+        'gitBranchLabel1': '#000000',
+        'gitBranchLabel2': '#000000',
+        'gitBranchLabel3': '#000000',
+        'gitBranchLabel4': '#000000'
+    }
+} }%%
+gitGraph
        branch Nambu
        commit id: "矢向"
        commit id: "尻手"
