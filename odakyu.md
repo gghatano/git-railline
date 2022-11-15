@@ -7,7 +7,7 @@ gitGraph
     commit id:"成城学園前"
     commit id:"登戸"
     commit id:"新百合ヶ丘"
-    branch Tama-Line
+    branch Tama-Branch
     commit id:"栗平"
     commit id:"永山"
     commit id:"多摩センター"
@@ -15,7 +15,7 @@ gitGraph
     checkout main
     commit id:"町田"
     commit id:"相模大野"
-    branch Enoshima-Line
+    branch Enoshima-Branch
     commit id:"中央林間"
     commit id:"藤沢"
     commit id:"片瀬江ノ島"
