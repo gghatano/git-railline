@@ -1,4 +1,4 @@
-```
+```mermaid
 gitGraph
     checkout main
     commit id:"新宿"
