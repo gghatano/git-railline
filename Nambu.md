@@ -24,7 +24,7 @@ gitGraph
        branch Tsurumi
        checkout Tsurumi
        commit id: "国道"
-       commit id: "朝野"
+       commit id: "浅野"
        commit id: "安善"
        checkout NambuBranch
        merge Tsurumi tag: "浜川崎"
